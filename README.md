@@ -75,17 +75,6 @@ node index.js
 
 ---
 
-## 📁 Filstruktur
-
-```
-├── index.js                # Huvudfil
-├── trade_log.txt           # Loggfil för trades
-├── rugged_tokens.json      # Blockerade tokens
-├── .env                    # Dold miljökonfig (läggs ej upp på GitHub)
-```
-
----
-
 ## ⚠️ Ansvarsfriskrivning
 
 > Detta projekt är en **hobbybot**. Inga garantier ges för vinst, säkerhet eller funktion. Använd på egen risk.
